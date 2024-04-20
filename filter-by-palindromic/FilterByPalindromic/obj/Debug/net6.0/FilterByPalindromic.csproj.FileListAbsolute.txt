@@ -1,0 +1,12 @@
+D:\repos\filter-by-palindromic\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.deps.json
+D:\repos\filter-by-palindromic\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.dll
+D:\repos\filter-by-palindromic\FilterByPalindromic\bin\Debug\net6.0\FilterByPalindromic.pdb
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.AssemblyReference.cache
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfoInputs.cache
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.AssemblyInfo.cs
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.csproj.CoreCompileInputs.cache
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.dll
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\refint\FilterByPalindromic.dll
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\FilterByPalindromic.pdb
+D:\repos\filter-by-palindromic\FilterByPalindromic\obj\Debug\net6.0\ref\FilterByPalindromic.dll

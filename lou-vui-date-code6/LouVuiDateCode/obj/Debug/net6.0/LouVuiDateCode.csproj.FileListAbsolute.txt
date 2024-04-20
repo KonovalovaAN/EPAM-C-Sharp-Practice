@@ -1,0 +1,12 @@
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.csproj.AssemblyReference.cache
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.AssemblyInfoInputs.cache
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.AssemblyInfo.cs
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.csproj.CoreCompileInputs.cache
+D:\repos\lou-vui-date-code6\LouVuiDateCode\bin\Debug\net6.0\LouVuiDateCode.deps.json
+D:\repos\lou-vui-date-code6\LouVuiDateCode\bin\Debug\net6.0\LouVuiDateCode.dll
+D:\repos\lou-vui-date-code6\LouVuiDateCode\bin\Debug\net6.0\LouVuiDateCode.pdb
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.dll
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\refint\LouVuiDateCode.dll
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\LouVuiDateCode.pdb
+D:\repos\lou-vui-date-code6\LouVuiDateCode\obj\Debug\net6.0\ref\LouVuiDateCode.dll

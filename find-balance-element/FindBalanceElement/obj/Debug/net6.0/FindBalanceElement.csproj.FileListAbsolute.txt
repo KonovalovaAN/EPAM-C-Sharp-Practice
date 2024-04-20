@@ -1,0 +1,12 @@
+D:\repos\find-balance-element\FindBalanceElement\bin\Debug\net6.0\FindBalanceElement.deps.json
+D:\repos\find-balance-element\FindBalanceElement\bin\Debug\net6.0\FindBalanceElement.dll
+D:\repos\find-balance-element\FindBalanceElement\bin\Debug\net6.0\FindBalanceElement.pdb
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.csproj.AssemblyReference.cache
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.AssemblyInfoInputs.cache
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.AssemblyInfo.cs
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.csproj.CoreCompileInputs.cache
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.dll
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\refint\FindBalanceElement.dll
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\FindBalanceElement.pdb
+D:\repos\find-balance-element\FindBalanceElement\obj\Debug\net6.0\ref\FindBalanceElement.dll

@@ -1,0 +1,12 @@
+D:\repos\bools\Bools\bin\Debug\net6.0\Bools.deps.json
+D:\repos\bools\Bools\bin\Debug\net6.0\Bools.dll
+D:\repos\bools\Bools\bin\Debug\net6.0\Bools.pdb
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.csproj.AssemblyReference.cache
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfoInputs.cache
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.AssemblyInfo.cs
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.csproj.CoreCompileInputs.cache
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.dll
+D:\repos\bools\Bools\obj\Debug\net6.0\refint\Bools.dll
+D:\repos\bools\Bools\obj\Debug\net6.0\Bools.pdb
+D:\repos\bools\Bools\obj\Debug\net6.0\ref\Bools.dll

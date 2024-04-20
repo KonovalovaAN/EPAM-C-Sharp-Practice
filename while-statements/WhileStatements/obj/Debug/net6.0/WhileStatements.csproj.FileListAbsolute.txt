@@ -1,0 +1,12 @@
+D:\repos\while-statements\WhileStatements\bin\Debug\net6.0\WhileStatements.deps.json
+D:\repos\while-statements\WhileStatements\bin\Debug\net6.0\WhileStatements.dll
+D:\repos\while-statements\WhileStatements\bin\Debug\net6.0\WhileStatements.pdb
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.csproj.AssemblyReference.cache
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.AssemblyInfoInputs.cache
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.AssemblyInfo.cs
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.csproj.CoreCompileInputs.cache
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.dll
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\refint\WhileStatements.dll
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\WhileStatements.pdb
+D:\repos\while-statements\WhileStatements\obj\Debug\net6.0\ref\WhileStatements.dll

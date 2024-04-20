@@ -1,0 +1,12 @@
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.csproj.AssemblyReference.cache
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfoInputs.cache
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.AssemblyInfo.cs
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.csproj.CoreCompileInputs.cache
+D:\repos\streams\Streams\bin\Debug\net6.0\Streams.deps.json
+D:\repos\streams\Streams\bin\Debug\net6.0\Streams.dll
+D:\repos\streams\Streams\bin\Debug\net6.0\Streams.pdb
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.dll
+D:\repos\streams\Streams\obj\Debug\net6.0\refint\Streams.dll
+D:\repos\streams\Streams\obj\Debug\net6.0\Streams.pdb
+D:\repos\streams\Streams\obj\Debug\net6.0\ref\Streams.dll

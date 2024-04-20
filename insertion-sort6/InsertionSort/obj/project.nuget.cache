@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OV+FeD48IeF8xqUArnxeJJvumNkWLEe0qemUgZT69/YgtPIPNo8F09LGdv67XPxgluQl/FpopdF2Yrfo2ACueg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\insertion-sort6\\InsertionSort\\InsertionSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

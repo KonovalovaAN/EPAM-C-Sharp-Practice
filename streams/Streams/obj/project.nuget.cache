@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IDJkOmirummtmozNzyuG2h56dS9lnaW185yzmmo5z3UqQtCQwqaHEjYw1e5/6shLgIwVi99VX1SWnMXPtLk2ow==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\streams\\Streams\\Streams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

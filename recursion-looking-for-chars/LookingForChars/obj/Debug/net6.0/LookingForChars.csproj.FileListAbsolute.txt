@@ -1,0 +1,12 @@
+D:\repos\recursion-looking-for-chars\LookingForChars\bin\Debug\net6.0\LookingForChars.deps.json
+D:\repos\recursion-looking-for-chars\LookingForChars\bin\Debug\net6.0\LookingForChars.dll
+D:\repos\recursion-looking-for-chars\LookingForChars\bin\Debug\net6.0\LookingForChars.pdb
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.csproj.AssemblyReference.cache
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.AssemblyInfoInputs.cache
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.AssemblyInfo.cs
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.csproj.CoreCompileInputs.cache
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.dll
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\refint\LookingForChars.dll
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\LookingForChars.pdb
+D:\repos\recursion-looking-for-chars\LookingForChars\obj\Debug\net6.0\ref\LookingForChars.dll

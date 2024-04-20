@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kwHWBNrUvg4ZI33iCUpWIcR7wF7cxpY8BmwHxiNInpB/3aCKPOag8o+npuOP3kL80M40X5/hbEjBw4XPuYsvKg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\binary-search\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

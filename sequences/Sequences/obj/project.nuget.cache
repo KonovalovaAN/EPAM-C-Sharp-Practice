@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "irl4I5AC5KR82BTLkZbYF6LuKK4LRepcL20o2YFBS0uDlgUDi8fGah3fnQN15HS+XvYFxnj8+TynWgX+ar4t/A==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\sequences\\Sequences\\Sequences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

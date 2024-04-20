@@ -1,0 +1,12 @@
+D:\repos\leap-year\LeapYear\bin\Debug\net6.0\LeapYear.deps.json
+D:\repos\leap-year\LeapYear\bin\Debug\net6.0\LeapYear.dll
+D:\repos\leap-year\LeapYear\bin\Debug\net6.0\LeapYear.pdb
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.csproj.AssemblyReference.cache
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfoInputs.cache
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.AssemblyInfo.cs
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.csproj.CoreCompileInputs.cache
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.dll
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\refint\LeapYear.dll
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\LeapYear.pdb
+D:\repos\leap-year\LeapYear\obj\Debug\net6.0\ref\LeapYear.dll

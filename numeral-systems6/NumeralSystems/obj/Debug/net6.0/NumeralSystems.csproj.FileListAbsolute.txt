@@ -1,0 +1,12 @@
+D:\repos\numeral-systems6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.deps.json
+D:\repos\numeral-systems6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.dll
+D:\repos\numeral-systems6\NumeralSystems\bin\Debug\net6.0\NumeralSystems.pdb
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.csproj.AssemblyReference.cache
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.AssemblyInfoInputs.cache
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.AssemblyInfo.cs
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.csproj.CoreCompileInputs.cache
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.dll
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\refint\NumeralSystems.dll
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\NumeralSystems.pdb
+D:\repos\numeral-systems6\NumeralSystems\obj\Debug\net6.0\ref\NumeralSystems.dll

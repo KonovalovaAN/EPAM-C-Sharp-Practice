@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yUfIHLVdbYbCtw8VcbdH49vZEkYe880QThWBdUA/FTvCsBD/gjicLJitpFtJdigBly7XYlDY+c7X7szpZNNObA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\static-methods\\StaticMethods\\StaticMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

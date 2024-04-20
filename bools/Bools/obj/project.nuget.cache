@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3E2FcPYa5vPXbXzlOqcNWutRh4b/BDR4Jf5m0n2guRnOWpRzpNTGcCp0Ye4+nYu6Xx52aO1KY+0YvTQbJ4TJg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\bools\\Bools\\Bools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

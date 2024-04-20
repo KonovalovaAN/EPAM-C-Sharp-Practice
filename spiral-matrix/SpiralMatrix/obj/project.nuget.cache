@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECQsMjbQ2P7kLxhx0u2U9nQH2aEwxKCfmwGkiwrpI6peV8lpdSXpBzdoG359M8LTtO6nJBowGdN9nnaiRdWgag==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\spiral-matrix\\SpiralMatrix\\SpiralMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

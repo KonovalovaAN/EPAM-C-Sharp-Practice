@@ -1,0 +1,12 @@
+D:\repos\population\Population\bin\Debug\net6.0\Population.deps.json
+D:\repos\population\Population\bin\Debug\net6.0\Population.dll
+D:\repos\population\Population\bin\Debug\net6.0\Population.pdb
+D:\repos\population\Population\obj\Debug\net6.0\Population.csproj.AssemblyReference.cache
+D:\repos\population\Population\obj\Debug\net6.0\Population.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\population\Population\obj\Debug\net6.0\Population.AssemblyInfoInputs.cache
+D:\repos\population\Population\obj\Debug\net6.0\Population.AssemblyInfo.cs
+D:\repos\population\Population\obj\Debug\net6.0\Population.csproj.CoreCompileInputs.cache
+D:\repos\population\Population\obj\Debug\net6.0\Population.dll
+D:\repos\population\Population\obj\Debug\net6.0\refint\Population.dll
+D:\repos\population\Population\obj\Debug\net6.0\Population.pdb
+D:\repos\population\Population\obj\Debug\net6.0\ref\Population.dll

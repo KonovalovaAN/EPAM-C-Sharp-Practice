@@ -1,0 +1,12 @@
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.csproj.AssemblyReference.cache
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.AssemblyInfoInputs.cache
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.AssemblyInfo.cs
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.csproj.CoreCompileInputs.cache
+D:\repos\style-issues\StyleIssues\bin\Debug\net6.0\StyleIssues.deps.json
+D:\repos\style-issues\StyleIssues\bin\Debug\net6.0\StyleIssues.dll
+D:\repos\style-issues\StyleIssues\bin\Debug\net6.0\StyleIssues.pdb
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.dll
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\refint\StyleIssues.dll
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\StyleIssues.pdb
+D:\repos\style-issues\StyleIssues\obj\Debug\net6.0\ref\StyleIssues.dll

@@ -1,0 +1,12 @@
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.deps.json
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.dll
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\bin\Debug\net6.0\LookingForArrayElements.pdb
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.csproj.AssemblyReference.cache
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.AssemblyInfoInputs.cache
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.AssemblyInfo.cs
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.csproj.CoreCompileInputs.cache
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.dll
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\refint\LookingForArrayElements.dll
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\LookingForArrayElements.pdb
+D:\repos\recursion-looking-for-array-elements\LookingForArrayElements\obj\Debug\net6.0\ref\LookingForArrayElements.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsvNlIZ9pLh4qeIhas3ZvQsEvrs0HuLgnzARFRd7zMkcrMq0c3AZzF4t/AVfagpVb12SD2MdnFlwhX6CP2yx9Q==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\jagged-arrays6\\JaggedArrays\\JaggedArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

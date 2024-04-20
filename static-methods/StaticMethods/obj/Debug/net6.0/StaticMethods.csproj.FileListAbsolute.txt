@@ -1,0 +1,12 @@
+D:\repos\static-methods\StaticMethods\bin\Debug\net6.0\StaticMethods.deps.json
+D:\repos\static-methods\StaticMethods\bin\Debug\net6.0\StaticMethods.dll
+D:\repos\static-methods\StaticMethods\bin\Debug\net6.0\StaticMethods.pdb
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.csproj.AssemblyReference.cache
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.AssemblyInfoInputs.cache
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.AssemblyInfo.cs
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.csproj.CoreCompileInputs.cache
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.dll
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\refint\StaticMethods.dll
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\StaticMethods.pdb
+D:\repos\static-methods\StaticMethods\obj\Debug\net6.0\ref\StaticMethods.dll

@@ -1,0 +1,12 @@
+D:\repos\type-of-sequence6\Numbers\bin\Debug\net6.0\Numbers.deps.json
+D:\repos\type-of-sequence6\Numbers\bin\Debug\net6.0\Numbers.dll
+D:\repos\type-of-sequence6\Numbers\bin\Debug\net6.0\Numbers.pdb
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.dll
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\Numbers.pdb
+D:\repos\type-of-sequence6\Numbers\obj\Debug\net6.0\ref\Numbers.dll

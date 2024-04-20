@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rf9Hy5GZVIIN25d+Iz2JIqy77ulzEooG8rrK4B5vX/yigLZ4TBEvufez9AV8L9bwv7Xq36WrFNCeMhW6Xn+ioQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\anagrams\\Anagrams\\Anagrams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

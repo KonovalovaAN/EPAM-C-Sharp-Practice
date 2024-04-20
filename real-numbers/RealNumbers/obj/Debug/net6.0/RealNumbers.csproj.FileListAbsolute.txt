@@ -1,0 +1,12 @@
+D:\repos\real-numbers\RealNumbers\bin\Debug\net6.0\RealNumbers.deps.json
+D:\repos\real-numbers\RealNumbers\bin\Debug\net6.0\RealNumbers.dll
+D:\repos\real-numbers\RealNumbers\bin\Debug\net6.0\RealNumbers.pdb
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.csproj.AssemblyReference.cache
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.AssemblyInfoInputs.cache
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.AssemblyInfo.cs
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.csproj.CoreCompileInputs.cache
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.dll
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\refint\RealNumbers.dll
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\RealNumbers.pdb
+D:\repos\real-numbers\RealNumbers\obj\Debug\net6.0\ref\RealNumbers.dll

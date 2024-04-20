@@ -1,0 +1,12 @@
+D:\repos\if-statements\IfStatements\bin\Debug\net6.0\IfStatements.deps.json
+D:\repos\if-statements\IfStatements\bin\Debug\net6.0\IfStatements.dll
+D:\repos\if-statements\IfStatements\bin\Debug\net6.0\IfStatements.pdb
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.csproj.AssemblyReference.cache
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfoInputs.cache
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfo.cs
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.csproj.CoreCompileInputs.cache
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.dll
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\refint\IfStatements.dll
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\IfStatements.pdb
+D:\repos\if-statements\IfStatements\obj\Debug\net6.0\ref\IfStatements.dll

@@ -1,0 +1,12 @@
+D:\repos\allergy-test\AllergyTest\bin\Debug\net6.0\AllergyTest.deps.json
+D:\repos\allergy-test\AllergyTest\bin\Debug\net6.0\AllergyTest.dll
+D:\repos\allergy-test\AllergyTest\bin\Debug\net6.0\AllergyTest.pdb
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.csproj.AssemblyReference.cache
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.AssemblyInfoInputs.cache
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.AssemblyInfo.cs
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.csproj.CoreCompileInputs.cache
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.dll
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\refint\AllergyTest.dll
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\AllergyTest.pdb
+D:\repos\allergy-test\AllergyTest\obj\Debug\net6.0\ref\AllergyTest.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XIt6t9dmor4COeiFIfZVNflXvG8lNfUp3MvEZbHWI7f6DoB3X7c7IHyyw0ctFmFU6XSiBdDDbBahSqgLF9pK4g==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\integers\\Integers\\Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

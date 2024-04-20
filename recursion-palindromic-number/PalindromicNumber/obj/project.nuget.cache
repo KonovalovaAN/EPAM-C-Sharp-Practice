@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZyDvYHmxvDb+94hkFZvbJ4eOzVfMuImg3g4dFOOLTefndZl0aNUIvCTmntjjVdTrSCf4DV660qA7fpqVOD4Ig==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\recursion-palindromic-number\\PalindromicNumber\\PalindromicNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\repos\integer-memory-dump\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.deps.json
+D:\repos\integer-memory-dump\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.dll
+D:\repos\integer-memory-dump\BinaryRepresentation\bin\Debug\net6.0\BinaryRepresentation.pdb
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.csproj.AssemblyReference.cache
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.AssemblyInfoInputs.cache
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.AssemblyInfo.cs
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.csproj.CoreCompileInputs.cache
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.dll
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\refint\BinaryRepresentation.dll
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\BinaryRepresentation.pdb
+D:\repos\integer-memory-dump\BinaryRepresentation\obj\Debug\net6.0\ref\BinaryRepresentation.dll

@@ -1,0 +1,12 @@
+D:\repos\binary-search\BinarySearch\bin\Debug\net6.0\BinarySearch.deps.json
+D:\repos\binary-search\BinarySearch\bin\Debug\net6.0\BinarySearch.dll
+D:\repos\binary-search\BinarySearch\bin\Debug\net6.0\BinarySearch.pdb
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.AssemblyReference.cache
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfoInputs.cache
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.AssemblyInfo.cs
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.dll
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\refint\BinarySearch.dll
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\BinarySearch.pdb
+D:\repos\binary-search\BinarySearch\obj\Debug\net6.0\ref\BinarySearch.dll

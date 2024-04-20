@@ -1,0 +1,12 @@
+D:\repos\integers\Integers\bin\Debug\net6.0\Integers.deps.json
+D:\repos\integers\Integers\bin\Debug\net6.0\Integers.dll
+D:\repos\integers\Integers\bin\Debug\net6.0\Integers.pdb
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.csproj.AssemblyReference.cache
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.AssemblyInfoInputs.cache
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.AssemblyInfo.cs
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.csproj.CoreCompileInputs.cache
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.dll
+D:\repos\integers\Integers\obj\Debug\net6.0\refint\Integers.dll
+D:\repos\integers\Integers\obj\Debug\net6.0\Integers.pdb
+D:\repos\integers\Integers\obj\Debug\net6.0\ref\Integers.dll

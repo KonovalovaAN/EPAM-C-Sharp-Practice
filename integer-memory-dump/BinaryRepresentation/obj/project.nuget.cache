@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAPovf1XHRv5DWRFvWh1w0o0KoFHmF/Z9Td+t5D2273IrU1V9WuJtfOs+w8pG+lR6q1/EPrgw1u1NNAt0dOIdQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\integer-memory-dump\\BinaryRepresentation\\BinaryRepresentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

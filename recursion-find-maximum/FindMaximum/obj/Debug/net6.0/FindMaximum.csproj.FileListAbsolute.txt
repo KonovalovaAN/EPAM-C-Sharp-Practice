@@ -1,0 +1,12 @@
+D:\repos\recursion-find-maximum\FindMaximum\bin\Debug\net6.0\FindMaximum.deps.json
+D:\repos\recursion-find-maximum\FindMaximum\bin\Debug\net6.0\FindMaximum.dll
+D:\repos\recursion-find-maximum\FindMaximum\bin\Debug\net6.0\FindMaximum.pdb
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.csproj.AssemblyReference.cache
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.AssemblyInfoInputs.cache
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.AssemblyInfo.cs
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.csproj.CoreCompileInputs.cache
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.dll
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\refint\FindMaximum.dll
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\FindMaximum.pdb
+D:\repos\recursion-find-maximum\FindMaximum\obj\Debug\net6.0\ref\FindMaximum.dll

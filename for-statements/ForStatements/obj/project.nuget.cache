@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cnczOnJvWnXd8JWepl7m1ww8JNoZ5SrnVCVWbMvyLcDooLmjjb97q4h/P56RYgchI11gdfzEFGPh5naUma5xg==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\for-statements\\ForStatements\\ForStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

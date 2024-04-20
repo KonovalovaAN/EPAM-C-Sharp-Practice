@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9QAbZx/m/xv1QtoB/L5MH/dD0Ypt6Blh4ILq/6tyi4hnewgoNQMY7FeKXdGY9PUU6uUMuIgtyLKO8gDEtGOOFQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\recursion-find-maximum\\FindMaximum\\FindMaximum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

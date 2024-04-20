@@ -1,0 +1,12 @@
+D:\repos\bubble-sort6\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+D:\repos\bubble-sort6\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+D:\repos\bubble-sort6\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\refint\BubbleSort.dll
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+D:\repos\bubble-sort6\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll

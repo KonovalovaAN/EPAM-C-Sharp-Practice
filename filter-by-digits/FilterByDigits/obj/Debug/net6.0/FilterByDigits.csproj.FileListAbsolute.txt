@@ -1,0 +1,12 @@
+D:\repos\filter-by-digits\FilterByDigits\bin\Debug\net6.0\FilterByDigits.deps.json
+D:\repos\filter-by-digits\FilterByDigits\bin\Debug\net6.0\FilterByDigits.dll
+D:\repos\filter-by-digits\FilterByDigits\bin\Debug\net6.0\FilterByDigits.pdb
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.csproj.AssemblyReference.cache
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.AssemblyInfoInputs.cache
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.AssemblyInfo.cs
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.csproj.CoreCompileInputs.cache
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.dll
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\refint\FilterByDigits.dll
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\FilterByDigits.pdb
+D:\repos\filter-by-digits\FilterByDigits\obj\Debug\net6.0\ref\FilterByDigits.dll

@@ -1,0 +1,12 @@
+D:\repos\while-practice\WhilePractice\bin\Debug\net6.0\WhilePractice.deps.json
+D:\repos\while-practice\WhilePractice\bin\Debug\net6.0\WhilePractice.dll
+D:\repos\while-practice\WhilePractice\bin\Debug\net6.0\WhilePractice.pdb
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.csproj.AssemblyReference.cache
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.AssemblyInfoInputs.cache
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.AssemblyInfo.cs
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.csproj.CoreCompileInputs.cache
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.dll
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\refint\WhilePractice.dll
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\WhilePractice.pdb
+D:\repos\while-practice\WhilePractice\obj\Debug\net6.0\ref\WhilePractice.dll

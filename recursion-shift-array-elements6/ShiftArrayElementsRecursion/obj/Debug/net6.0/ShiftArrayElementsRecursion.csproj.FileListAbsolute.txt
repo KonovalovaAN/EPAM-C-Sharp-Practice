@@ -1,0 +1,12 @@
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\bin\Debug\net6.0\ShiftArrayElementsRecursion.deps.json
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\bin\Debug\net6.0\ShiftArrayElementsRecursion.dll
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\bin\Debug\net6.0\ShiftArrayElementsRecursion.pdb
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.csproj.AssemblyReference.cache
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.AssemblyInfoInputs.cache
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.AssemblyInfo.cs
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.csproj.CoreCompileInputs.cache
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.dll
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\refint\ShiftArrayElementsRecursion.dll
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ShiftArrayElementsRecursion.pdb
+D:\repos\recursion-shift-array-elements6\ShiftArrayElementsRecursion\obj\Debug\net6.0\ref\ShiftArrayElementsRecursion.dll

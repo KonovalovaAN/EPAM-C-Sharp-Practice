@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cmSXV5vGFVbJnWVlIiAy9YA1IibtHCtnAc3K+HcLA5/yuWFGdte/3E+DyjQj2BlHpY/L0c1wgM/TlgW4gOpc9w==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\if-else-statements\\IfElseStatements\\IfElseStatements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.deps.json
+D:\repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.dll
+D:\repos\isbn-validator\IsbnValidator\bin\Debug\net6.0\IsbnValidator.pdb
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.csproj.AssemblyReference.cache
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.AssemblyInfoInputs.cache
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.AssemblyInfo.cs
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.csproj.CoreCompileInputs.cache
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.dll
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\refint\IsbnValidator.dll
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\IsbnValidator.pdb
+D:\repos\isbn-validator\IsbnValidator\obj\Debug\net6.0\ref\IsbnValidator.dll

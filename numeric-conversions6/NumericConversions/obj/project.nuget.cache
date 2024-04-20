@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRaqfBzlEFs1FMFR5Y4qPYhpCFoDS0NHi91TBZ9lhJw+sUAtiMKs9gPdk6VINqvC5ARj3XE3XCGHIy/jj4t2YA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\numeric-conversions6\\NumericConversions\\NumericConversions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

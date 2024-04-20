@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u+a4c4BIARS2vKdRckk4VJ7SjQB/BK7taS2r2Mq+HC/wief/KSKjAGRUUydaMfD6sht37b8/Jne0B5YDCQpoig==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\leap-year\\LeapYear\\LeapYear.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

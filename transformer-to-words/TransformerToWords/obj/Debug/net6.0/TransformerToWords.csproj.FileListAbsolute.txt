@@ -1,0 +1,12 @@
+D:\repos\transformer-to-words\TransformerToWords\bin\Debug\net6.0\TransformerToWords.deps.json
+D:\repos\transformer-to-words\TransformerToWords\bin\Debug\net6.0\TransformerToWords.dll
+D:\repos\transformer-to-words\TransformerToWords\bin\Debug\net6.0\TransformerToWords.pdb
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.csproj.AssemblyReference.cache
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.AssemblyInfoInputs.cache
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.AssemblyInfo.cs
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.csproj.CoreCompileInputs.cache
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.dll
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\refint\TransformerToWords.dll
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\TransformerToWords.pdb
+D:\repos\transformer-to-words\TransformerToWords\obj\Debug\net6.0\ref\TransformerToWords.dll

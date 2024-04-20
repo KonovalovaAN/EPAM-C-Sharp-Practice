@@ -1,0 +1,12 @@
+D:\repos\sequences\Sequences\bin\Debug\net6.0\Sequences.deps.json
+D:\repos\sequences\Sequences\bin\Debug\net6.0\Sequences.dll
+D:\repos\sequences\Sequences\bin\Debug\net6.0\Sequences.pdb
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.csproj.AssemblyReference.cache
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.AssemblyInfoInputs.cache
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.AssemblyInfo.cs
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.csproj.CoreCompileInputs.cache
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.dll
+D:\repos\sequences\Sequences\obj\Debug\net6.0\refint\Sequences.dll
+D:\repos\sequences\Sequences\obj\Debug\net6.0\Sequences.pdb
+D:\repos\sequences\Sequences\obj\Debug\net6.0\ref\Sequences.dll

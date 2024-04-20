@@ -1,0 +1,12 @@
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\bin\Debug\net6.0\RecursionIndexOfChar.deps.json
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\bin\Debug\net6.0\RecursionIndexOfChar.dll
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\bin\Debug\net6.0\RecursionIndexOfChar.pdb
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.csproj.AssemblyReference.cache
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.AssemblyInfoInputs.cache
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.AssemblyInfo.cs
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.csproj.CoreCompileInputs.cache
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.dll
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\refint\RecursionIndexOfChar.dll
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\RecursionIndexOfChar.pdb
+D:\repos\recursion-index-of-char6\RecursionIndexOfChar\obj\Debug\net6.0\ref\RecursionIndexOfChar.dll

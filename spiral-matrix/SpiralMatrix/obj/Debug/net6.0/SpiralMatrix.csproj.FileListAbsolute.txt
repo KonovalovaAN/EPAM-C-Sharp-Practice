@@ -1,0 +1,12 @@
+D:\repos\spiral-matrix\SpiralMatrix\bin\Debug\net6.0\SpiralMatrix.deps.json
+D:\repos\spiral-matrix\SpiralMatrix\bin\Debug\net6.0\SpiralMatrix.dll
+D:\repos\spiral-matrix\SpiralMatrix\bin\Debug\net6.0\SpiralMatrix.pdb
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.csproj.AssemblyReference.cache
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.AssemblyInfoInputs.cache
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.AssemblyInfo.cs
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.dll
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\refint\SpiralMatrix.dll
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\SpiralMatrix.pdb
+D:\repos\spiral-matrix\SpiralMatrix\obj\Debug\net6.0\ref\SpiralMatrix.dll

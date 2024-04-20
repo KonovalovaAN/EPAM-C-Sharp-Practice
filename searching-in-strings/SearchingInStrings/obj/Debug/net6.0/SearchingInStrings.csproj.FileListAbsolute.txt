@@ -1,0 +1,12 @@
+D:\repos\searching-in-strings\SearchingInStrings\bin\Debug\net6.0\SearchingInStrings.deps.json
+D:\repos\searching-in-strings\SearchingInStrings\bin\Debug\net6.0\SearchingInStrings.dll
+D:\repos\searching-in-strings\SearchingInStrings\bin\Debug\net6.0\SearchingInStrings.pdb
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.csproj.AssemblyReference.cache
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.AssemblyInfoInputs.cache
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.AssemblyInfo.cs
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.csproj.CoreCompileInputs.cache
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.dll
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\refint\SearchingInStrings.dll
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\SearchingInStrings.pdb
+D:\repos\searching-in-strings\SearchingInStrings\obj\Debug\net6.0\ref\SearchingInStrings.dll

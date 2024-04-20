@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8iAyuLk650+yFiNfLEGpwFvDsZQuF9mCihvkv6LkG5BgOwA9Em3MjSHik/zyoyAEhH5JnVIgBFIrIkTJB3RyA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\bubble-sort6\\BubbleSort\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

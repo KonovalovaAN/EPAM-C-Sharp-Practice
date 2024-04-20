@@ -1,0 +1,12 @@
+D:\repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.deps.json
+D:\repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.dll
+D:\repos\fancy-calc6\FancyCalc\bin\Debug\net6.0\FancyCalc.pdb
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.csproj.AssemblyReference.cache
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.AssemblyInfoInputs.cache
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.AssemblyInfo.cs
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.csproj.CoreCompileInputs.cache
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.dll
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\refint\FancyCalc.dll
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\FancyCalc.pdb
+D:\repos\fancy-calc6\FancyCalc\obj\Debug\net6.0\ref\FancyCalc.dll

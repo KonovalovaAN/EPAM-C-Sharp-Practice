@@ -1,0 +1,12 @@
+D:\repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.deps.json
+D:\repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.dll
+D:\repos\numeric-conversions6\NumericConversions\bin\Debug\net6.0\NumericConversions.pdb
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.csproj.AssemblyReference.cache
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.AssemblyInfoInputs.cache
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.AssemblyInfo.cs
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.csproj.CoreCompileInputs.cache
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.dll
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\refint\NumericConversions.dll
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\NumericConversions.pdb
+D:\repos\numeric-conversions6\NumericConversions\obj\Debug\net6.0\ref\NumericConversions.dll

@@ -1,0 +1,12 @@
+D:\repos\relocation-elements\RelocationElements\bin\Debug\net6.0\RelocationElements.deps.json
+D:\repos\relocation-elements\RelocationElements\bin\Debug\net6.0\RelocationElements.dll
+D:\repos\relocation-elements\RelocationElements\bin\Debug\net6.0\RelocationElements.pdb
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.csproj.AssemblyReference.cache
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.AssemblyInfoInputs.cache
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.AssemblyInfo.cs
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.csproj.CoreCompileInputs.cache
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.dll
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\refint\RelocationElements.dll
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\RelocationElements.pdb
+D:\repos\relocation-elements\RelocationElements\obj\Debug\net6.0\ref\RelocationElements.dll

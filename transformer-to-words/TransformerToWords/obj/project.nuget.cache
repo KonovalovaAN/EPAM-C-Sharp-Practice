@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rx4EczlC5/6uh0sd+y1F83Sm98qJ0+SKyRBMExaX/Wd/B/NX8Q3pIoaxTj6wWk9Pk+ASVG2mFusZsJs4tpdTfw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\transformer-to-words\\TransformerToWords\\TransformerToWords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

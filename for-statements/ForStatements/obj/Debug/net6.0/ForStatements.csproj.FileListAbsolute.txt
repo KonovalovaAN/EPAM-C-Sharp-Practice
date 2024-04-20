@@ -1,0 +1,12 @@
+D:\repos\for-statements\ForStatements\bin\Debug\net6.0\ForStatements.deps.json
+D:\repos\for-statements\ForStatements\bin\Debug\net6.0\ForStatements.dll
+D:\repos\for-statements\ForStatements\bin\Debug\net6.0\ForStatements.pdb
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.csproj.AssemblyReference.cache
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.AssemblyInfoInputs.cache
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.AssemblyInfo.cs
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.csproj.CoreCompileInputs.cache
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.dll
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\refint\ForStatements.dll
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ForStatements.pdb
+D:\repos\for-statements\ForStatements\obj\Debug\net6.0\ref\ForStatements.dll

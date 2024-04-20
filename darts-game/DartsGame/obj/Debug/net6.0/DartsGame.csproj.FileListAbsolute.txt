@@ -1,0 +1,12 @@
+D:\repos\darts-game\DartsGame\bin\Debug\net6.0\DartsGame.deps.json
+D:\repos\darts-game\DartsGame\bin\Debug\net6.0\DartsGame.dll
+D:\repos\darts-game\DartsGame\bin\Debug\net6.0\DartsGame.pdb
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.csproj.AssemblyReference.cache
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.AssemblyInfoInputs.cache
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.AssemblyInfo.cs
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.csproj.CoreCompileInputs.cache
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.dll
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\refint\DartsGame.dll
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\DartsGame.pdb
+D:\repos\darts-game\DartsGame\obj\Debug\net6.0\ref\DartsGame.dll

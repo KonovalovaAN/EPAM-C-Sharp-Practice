@@ -1,0 +1,12 @@
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.csproj.AssemblyReference.cache
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.AssemblyInfoInputs.cache
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.AssemblyInfo.cs
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.csproj.CoreCompileInputs.cache
+D:\repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.deps.json
+D:\repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.dll
+D:\repos\static-methods-compiler-errors\CompilerErrors\bin\Debug\net6.0\CompilerErrors.pdb
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.dll
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\refint\CompilerErrors.dll
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\CompilerErrors.pdb
+D:\repos\static-methods-compiler-errors\CompilerErrors\obj\Debug\net6.0\ref\CompilerErrors.dll

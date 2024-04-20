@@ -1,0 +1,10 @@
+D:\repos\hello-world\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\repos\hello-world\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\repos\hello-world\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\repos\hello-world\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb

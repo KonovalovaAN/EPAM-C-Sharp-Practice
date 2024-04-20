@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEhG2SxIO6sFHtl1Gmt9N9WDu4a4+q5zhRSGG3j8t4JI6B3F4gQiW9R36n08wd/zlF0f+zLIAPC7MxD6/zowAA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\real-numbers\\RealNumbers\\RealNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
